@@ -25,9 +25,5 @@
     "react-native-image-resizer": ">=1.4.2",
     "@stream-io/flat-list-mvcp": "0.10.1",
     "react-native-share": ">=4.1.0"
-  },
-  "scripts": {
-    "prepack": " cp ../../README.md .",
-    "postpack": "rm README.md"
   }
 }
